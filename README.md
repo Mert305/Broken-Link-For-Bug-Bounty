@@ -6,7 +6,7 @@ Saldırganlar, kimlik avı veya kötü amaçlı yazılım saldırıları gibi ç
 
 Bu güvenlik açığını azaltmak için, web sitesi sahipleri sitelerindeki bozuk bağlantıları düzenli olarak kontrol etmeli ve bunları derhal düzeltmelidir. Ayrıca, bozuk bağlantıları belirlemeye ve adreslemeye yardımcı olması için web güvenlik açığı tarayıcılarını veya otomatik araçları kullanabilirler. Ek olarak, kullanıcılar, özellikle şüpheli veya beklenmedik görünen bağlantılara tıklarken dikkatli olmalıdır.r.
 
-#In ENGLISH
+# In ENGLISH
 
 The broken link vulnerability refers to a security weakness caused by non-functioning links. These links can be within or outside of a website and may result from various factors such as incorrectly typed URLs, deleted pages, or outdated content.
 
