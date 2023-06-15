@@ -13,3 +13,5 @@ The broken link vulnerability refers to a security weakness caused by non-functi
 Attackers can exploit broken links to launch various types of attacks, including phishing or malware attacks. For example, an attacker can create a fake login page and add a broken link to a legitimate website. When a user clicks on the link, they are redirected to the fake login page where their login credentials can be stolen.
 
 To mitigate this vulnerability, website owners should regularly check for broken links on their sites and promptly fix them. They can also use web vulnerability scanners or automated tools to help identify and address broken links. Additionally, users should exercise caution, especially when clicking on suspicious or unexpected links.
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/MertErgun)
